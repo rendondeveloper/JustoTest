@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JustoTest</string>
+
+    <string name="name_label">Name</string>
+    <string name="gender_label">Genero</string>
+    <string name="email_label">Email</string>
+    <string name="address_label">Dirección</string>
+</resources>
